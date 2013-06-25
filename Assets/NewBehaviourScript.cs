@@ -1,6 +1,6 @@
 using UnityEngine;
 using System.Collections;
-
+//what is going on
 public class NewBehaviourScript : MonoBehaviour {
 
 	// Use this for initialization
